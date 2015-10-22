@@ -1,0 +1,78 @@
+body{
+	background-color: #E2E5B3;
+}
+
+.logo{
+	height: 200px;
+	background-image: url("logo.jpeg");
+	background-repeat: no-repeat;
+	background-size: 11%;
+	margin: 1%;
+}
+
+.header{
+	background-image: url("giphy1.gif");
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+.links{
+	font-family: "courier";
+	font-size: 50px;	
+	text-align: center;
+	margin-top: 5%
+}
+
+.menu{
+	display: inline-block;
+	background-image: url("coffee.jpg");
+	background-size: 100%;
+	border: 1px solid #3B2702;
+	width: 350px;
+	margin: 1%;
+	padding: 4%;
+}
+
+.location{
+	display: inline-block;
+	background-image: url("location2.jpg");
+	background-size: 100%;
+	background-position: 75%;
+	border: 1px solid #3B2702;
+	width: 500px;
+	padding: 4%;
+}
+
+.links2{
+	font-family: "courier";
+	font-size: 50px;	
+	text-align: center;
+}
+
+.reviews{
+	display: inline-block;
+	background-image: url("review.png");
+	background-size: 100%;
+	border: 1px solid #3B2702;
+	width: 500px;
+	margin: 1%;
+	padding: 4%;
+}
+
+.photo{
+	display: inline-block;
+	background-image: url("photos.jpg");
+	background-size: 100%;
+	border: 1px solid #3B2702;
+	width: 350px;
+	margin: 1%;
+	padding: 4%;
+}
+
+@media screen and (max-width: 768px){
+	
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+	
+}
